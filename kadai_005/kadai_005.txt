@@ -1,0 +1,52 @@
+    1  git config--local user.name"marina0405goemon0510"
+    2  git config--global user.name"marina0405goemon0510"
+    3  git config --global user.name "marina0405goemon0510"
+    4  git config --global user.email "marinaspace194@gmail.com"
+    5  git config --global user.name
+    6  git config --global user.email
+    7  git config --global init.defaultBrancf main
+    8  #
+    9  cd任意
+   10  mkdir git_tutorial
+   11  cd git_tutorial
+   12  git init
+   13  git add sample.txt
+   14  cd C:/Users/TEST
+   15  cd C/Users/main/Desktop/git_tutorial
+   16  cd C:/Users/main/Desktop/git_tutorial
+   17  cd "C:/Users/main/Desktop/git_tutorial"
+   18  git status
+   19  cd C:\Users\main\Desktop
+   20  cd
+   21  pwd
+   22  cd /c/Users/marin
+   23  cd
+   24  mkdir git_tutorial
+   25  
+   26  
+   27  mkdir kadai_007
+   28  cd kadai_007
+   29  touch kadai_007.txt
+   30  chmod 444 kadai_007.txt
+   31  ls -1 kadai_007.txt
+   32  chmod 666 kadai_007.txt
+   33  ls -l kadai_007.txt
+   34  chmod 444 kadai_007.txt
+   35  chmod 666 kadai_007.txt
+   36  ls -l 
+   37  chmod 444
+   38  ls -l
+   39  mkdir git_challenge
+   40  cd git_challenge
+   41  git init
+   42  echo "" > hello_world.txt
+   43  echo "Hello, world!" >> hello_world.txt
+   44  git add hello_world.txt
+   45  git commit -m "hello_world.txt を追加"
+   46  echo "こんにちは、世界！" >> hello_world.txt
+   47  git add hello_world.txt
+   48  git commit -m "日本語訳を追記"
+   49  git log --oneline
+   50  cd ..
+   51  mkdir kadai_005
+   52  history > kadai_005/kadai_005.txt
